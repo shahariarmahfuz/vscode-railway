@@ -1,6 +1,6 @@
 FROM codercom/code-server:latest
 
-ENV PASSWORD=ChangeThisPassword
+ENV PASSWORD=mahfuz
 
 EXPOSE 8080
 
